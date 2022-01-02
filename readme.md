@@ -1,6 +1,6 @@
 # FIFER
 A **F**ast **I**mage **F**eature **E**xtraction and **R**egistration (**FIFER**) method for motion correction of two-photon Ca2+ imaging data.
-FIFER is a GUI software which can adapt parameter for each data.
+FIFER is a GUI software which can adapt parameter for each data. (Notice: This software can only run on Windows.)
 
 ## Eviroment Dependence
 ### 1. Parameter Configure GUI:
