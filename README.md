@@ -23,6 +23,6 @@ A Fast Image Feature Extraction and Registration (FIFER) method for motion corre
 #### DOI=10.3389/fninf.2022.851188
 #### ISSN=1662-5196
 
-### Thanks for your attention!
+### \nThanks for your attention!
 ### 2023/3/12. Weiyi Liu. ChongQing, China.
 ### Mail: weiyi_liu1@outlook.com
